@@ -1,5 +1,5 @@
 # node-aws-rx
 
-Reactive Extension interface to AWS sdk for Node
-
-UNDER CONSTRUCTION: Sept 3, 2015
+Location change:
+[https://github.com/jadbox/rxjs-aws](https://github.com/jadbox/rxjs-aws)
+[https://www.npmjs.com/package/rxjs-aws](https://www.npmjs.com/package/rxjs-aws)
