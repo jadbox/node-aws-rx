@@ -1,0 +1,18 @@
+{
+  "name": "aws-rx",
+  "version": "0.0.1",
+  "description": "Reactive Extension interface to AWS sdk for Node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jadbox/node-aws-rx.git"
+  },
+  "author": "Jonathan Dunlap",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jadbox/node-aws-rx/issues"
+  }
+}
