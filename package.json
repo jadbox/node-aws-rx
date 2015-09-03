@@ -1,6 +1,6 @@
 {
   "name": "aws-rx",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "Reactive Extension interface to AWS sdk for Node",
   "main": "index.js",
   "scripts": {
